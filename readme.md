@@ -2,6 +2,9 @@
 
 Uma página web simples, responsiva e visual para explicar a licença **GNU AGPL-3.0** em português de forma clara e acessível.
 
+
+[📖 meu rsumo da Licença AGPL-3.0 na íntegra](https://brunomoraesf.github.io/Licenca-AGPL-3.0/)
+
 [📖 Ver a minha pagina da Licença AGPL-3.0 na íntegra](https://www.gnu.org/licenses/agpl-3.0.html)
 
 ## 💡 Por que este projeto existe?
